@@ -73,9 +73,9 @@ Here’s a peek at my coding journey:
 ## 🤝 Let’s Connect  
 Love collaborating on cool projects—drop me a line!  
 - 📧 **Email:** [fatahillah@yandex.com](mailto:fatahillah@yandex.com)  
-- 🔗 **LinkedIn:** [linkedin.com/in/fatahillah](https://linkedin.com/in/fatahillah39)  
+- 🔗 **LinkedIn:** [linkedin.com/in/fatahillah39](https://linkedin.com/in/fatahillah39)  
 - 🐙 **GitHub:** [github.com/TeslaboyS39](https://github.com/TeslaboyS39)  
-- 𝕏 **X:** [x.com/yourusername](https://twitter.com/_fatah_)
+- 𝕏 **X:** [x.com/_fatah_](https://twitter.com/_fatah_)
 - 🌐 **Website(SWDev):** [Scalar]([http://yourwebsite.com](https://scalar-portfolioweb.vercel.app/))
 - 🌐 **Website(HWDev):** [Vektorz]([http://yourwebsite.com](https://sites.google.com/view/fatahproject39/))  
 
