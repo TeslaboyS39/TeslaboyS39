@@ -12,10 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-  <img src="https://your-photo-url.jpg" alt="Profile Picture" width="150" height="150" style="border-radius: 50%;">
-</p>
-
 # Fatahillah | Software & Automation Artisan  
 ✨ *Crafting elegant solutions with code and curiosity.* ✨  
 
